@@ -1,0 +1,36 @@
+;Instrument;Antal;Åbningspris;Investor;Amount;Currency;Stockexchange;Ticker
+0;TYRES;348;10.22;Lars Persson;3556.5600000000004;EUR;xhel;TYRES.HE
+1;BAVA;75;148.9;Lars Persson;11167.5;DKK;xcse;BAVA.CO
+2;VWS;141;112.1;Lars Persson;15806.099999999999;DKK;xcse;VWS.CO
+3;TRMD_A;170;128.9;Lars Persson;21913.0;DKK;xcse;TRMD-A.CO
+4;AMBUb;286;83.8;Lars Persson;23966.8;DKK;xcse;AMBUb.CO
+5;OKEA;1355;22.52;Lars Persson;30514.6;NOK;xosl;OKEA.OL
+6;VISC;1000;18.73;Lars Persson;18730.0;SEK;xome;VISC.ST
+7;SWED_A;80;349.1;Lars Persson;27928.0;SEK;xome;SWED-A.ST
+8;VOLVb;90;333.28;Lars Persson;29995.199999999997;SEK;xome;VOLVb.ST
+9;TEF;386;3.7;Lars Persson;1428.2;EUR;xmce;TEF.MC
+10;INTRUM;438;40.46;Lars Persson;17721.48;SEK;xome;INTRUM.ST
+11;VAR;378;39.44;Lars Persson;14908.32;NOK;xosl;VAR.OL
+12;DNORD;235;318.54;Lau Svenssen;74856.90000000001;DKK;xcse;DNORD.CO
+13;PHO;1000;58.83;Lau Svenssen;58830.0;NOK;xosl;PHO.OL
+14;TEN_NEW;150;15.44;Lau Svenssen;2316.0;USD;xnys;TEN-NEW
+15;TRMD_A;170;132.0;Lau Svenssen;22440.0;DKK;xcse;TRMD-A.CO
+16;FRO;250;228.7;Lau Svenssen;57175.0;NOK;xosl;FRO.OL
+17;BWLPG;300;127.3;Lau Svenssen;38190.0;NOK;xosl;BWLPG.OL
+18;ENI;0;0.0;Lau Svenssen;0.0;EUR;xmil;ENI.MI
+19;ZEAL;90;409.5;Lau Svenssen;36855.0;DKK;xcse;ZEAL.CO
+20;GN;350;98.34;Lau Svenssen;34419.0;DKK;xcse;GN.CO
+21;BABA;12;87.4;Michael Friis Jørgensen;1048.8000000000002;USD;xnys;BABA
+22;NKT;20;452.2;Michael Friis Jørgensen;9044.0;DKK;xcse;NKT.CO
+23;SOLARb;25;265.5;Michael Friis Jørgensen;6637.5;DKK;xcse;SOLARb.CO
+24;XLFS;3;353.28;Michael Friis Jørgensen;1059.84;EUR;xmil;XLFS.MI
+25;DSV;12;1336.0;Michael Friis Jørgensen;16032.0;DKK;xcse;DSV.CO
+26;NTG;112;172.4;Michael Friis Jørgensen;19308.8;DKK;xcse;NTG.CO
+27;BAVA;50;173.35;Michael Friis Jørgensen;8667.5;DKK;xcse;BAVA.CO
+28;PATH;218;14.64;Michael Friis Jørgensen;3191.52;USD;xnys;PATH
+29;LOCK;156;8.57;Michael Friis Jørgensen;1336.92;EUR;xmil;LOCK.MI
+30;NVO;100;46.47;Michael Friis Jørgensen;4647.0;USD;xnys;NVO
+31;COLOb;35;543.4;Michael Friis Jørgensen;19019.0;DKK;xcse;COLOb.CO
+32;GN;240;103.73;Michael Friis Jørgensen;24895.2;DKK;xcse;GN.CO
+33;NNIT;220;48.35;Michael Friis Jørgensen;10637.0;DKK;xcse;NNIT.CO
+34;NOW;30;118.22;Michael Friis Jørgensen;3546.6;USD;xnys;NOW

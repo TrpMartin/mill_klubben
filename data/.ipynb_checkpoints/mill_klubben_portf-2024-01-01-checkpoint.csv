@@ -1,0 +1,36 @@
+;Instrument;Antal;Åbningspris;Investor;Amount;Currency;Stockexchange;Ticker
+0;SHOT;700;39.74;Lars Persson;27818.0;SEK;xome;SHOT.ST
+1;ALK_B;219;111.11;Lars Persson;24333.09;DKK;xcse;ALK-B.CO
+2;SCHA;130;193.5;Lars Persson;25155.0;NOK;xosl;SCHA.OL
+3;BELCO;1600;16.9;Lars Persson;27039.999999999996;NOK;xosl;BELCO.OL
+4;TYRES;348;10.22;Lars Persson;3556.5600000000004;EUR;xhel;TYRES.HE
+5;HAUTO;285;60.8;Lars Persson;17328.0;NOK;xosl;HAUTO.OL
+6;DNO;3000;10.28;Lars Persson;30839.999999999996;NOK;xosl;DNO.OL
+7;SINCH;620;25.36;Lars Persson;15723.199999999999;SEK;xome;SINCH.ST
+8;NIBE_B;500;89.28;Lars Persson;44640.0;SEK;xome;NIBE-B.ST
+9;BAVA;150;148.9;Lars Persson;22335.0;DKK;xcse;BAVA.CO
+10;HOFI;550;37.75;Lars Persson;20762.5;SEK;xome;HOFI.ST
+11;GOMX;1800;17.22;Lau Svenssen;30995.999999999996;SEK;xome;GOMX.ST
+12;BAVA;300;197.58;Lau Svenssen;59274.00000000001;DKK;xcse;BAVA.CO
+13;TNP;300;15.44;Lau Svenssen;4632.0;USD;xnys;TNP
+14;NEM;100;47.92;Lau Svenssen;4792.0;USD;xnys;NEM
+15;DNORD;180;350.8;Lau Svenssen;63144.0;DKK;xcse;DNORD.CO
+16;PHO;1000;58.83;Lau Svenssen;58830.0;NOK;xosl;PHO.OL
+17;MMM;85357;0.09;Mads Christiansen;7682.13;AUD;xasx;MMM.AX
+18;KSPI;10;73.0;Mads Christiansen;730.0;USD;xlon;KSPI.L
+19;UPST;44;18.17;Mads Christiansen;799.48;USD;xnas;UPST
+20;HIMS;446;8.24;Mads Christiansen;3675.04;USD;xnys;HIMS
+21;SE;103;38.42;Mads Christiansen;3957.26;USD;xnys;SE
+22;PTON;326;4.67;Mads Christiansen;1522.42;USD;xnas;PTON
+23;CVNA;35;31.15;Mads Christiansen;1090.25;USD;xnys;CVNA
+24;HFG;337;14.9;Mads Christiansen;5021.3;EUR;xetr;HFG.DE
+25;CHWY;82;18.35;Mads Christiansen;1504.7;USD;xnys;CHWY
+26;PMINDI;569;118.55;Mads Christiansen;67454.95;DKK;xcse;PMINDI.CO
+27;CDLX;211;9.29;Mads Christiansen;1960.1899999999998;USD;xnas;CDLX
+28;BABA;146;94.55;Michael Friis Jørgensen;13804.3;USD;xnys;BABA
+29;TDOC;15;94.84;Michael Friis Jørgensen;1422.6000000000001;USD;xnys;TDOC
+30;BAYN;100;52.92;Michael Friis Jørgensen;5292.0;EUR;xetr;BAYN.DE
+31;ISS;131;129.75;Michael Friis Jørgensen;16997.25;DKK;xcse;ISS.CO
+32;GN;159;145.25;Michael Friis Jørgensen;23094.75;DKK;xcse;GN.CO
+33;BHIL;4000;0.62;Michael Friis Jørgensen;2480.0;USD;xnys;BHIL
+34;NOVO_B;100;589.4;Michael Friis Jørgensen;58940.0;DKK;xcse;NOVO-B.CO
